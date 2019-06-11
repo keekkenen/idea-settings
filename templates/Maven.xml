@@ -1,0 +1,5 @@
+<templateSet group="Maven">
+  <template name="dep" value="&lt;dependency&gt;&#10;&lt;/dependency&gt;" description="dependency" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+</templateSet>
