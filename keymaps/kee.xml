@@ -26,6 +26,7 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NextPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.GenerateDDLAction" />
@@ -62,6 +63,7 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
+  <action id="ExtractFunctionToScope" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
@@ -93,6 +95,9 @@
   <action id="JProfiler.ShowInJProfilerBacktraces" />
   <action id="JProfiler.ShowInJProfilerOutgoing" />
   <action id="JProfiler.ShowInJProfilerThis" />
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
