@@ -78,9 +78,13 @@
           <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/zik/wmszik.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ekardashov@vpn.ifdsls.ru:7990/scm/kmsan/migrate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Projects\_sofia\zik" />
+    <option name="cloneParentDir" value="C:\Projects\_komus\temp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
