@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
@@ -22,7 +23,6 @@
     <mask>*handl*.java</mask>
     <mask>*ru.properties</mask>
     <mask>lth*.cs</mask>
-    <mask>*.gradle</mask>
     <mask>*Log*java</mask>
     <mask>*Helper.cs</mask>
     <mask>Auf*.cs</mask>
@@ -35,5 +35,6 @@
     <mask>*Reply.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
