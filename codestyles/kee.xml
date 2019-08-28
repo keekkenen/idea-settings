@@ -506,8 +506,7 @@
     <option name="SPACE_BEFORE_ANOTATION_PARAMETER_LIST" value="true" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
