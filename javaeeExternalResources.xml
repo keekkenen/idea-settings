@@ -8,5 +8,6 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea/system/extResources/334543e7_spring-beans.xsd" />
     <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/tags/2.5.1/distro-source/core/src/gwt-module.dtd" />
+    <ignored-resource url="http://remote.wmsws.ifdag.de/" />
   </component>
 </application>
