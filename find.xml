@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*ret*" />
     <mask>*.css</mask>
     <mask>*serv*.java</mask>
     <mask>*.cmd</mask>
@@ -34,5 +33,6 @@
     <mask>*Handler.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*ret*</mask>
   </component>
 </application>
