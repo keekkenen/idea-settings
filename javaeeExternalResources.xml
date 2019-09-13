@@ -5,7 +5,7 @@
     <resource url="http://cxf.apache.org/schemas/core.xsd" location="$USER_HOME$/.IntelliJIdea/system/extResources/263a46b3_core.xsd" />
     <resource url="http://jasperreports.sourceforge.net/jasperreports/components" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/269e968d_components.xsd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/.IntelliJIdea/system/extResources/489cc366_assembly-1.1.0.xsd" />
-    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/32b10bb8_dbchangelog-3.1.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea/system/extResources/334543e7_spring-beans.xsd" />
     <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/tags/2.5.1/distro-source/core/src/gwt-module.dtd" />
     <ignored-resource url="http://remote.wmsws.ifdag.de/" />
