@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.prop*" />
     <mask>*.cmd</mask>
     <mask>*.sql</mask>
     <mask>*log*.xml</mask>
@@ -31,10 +28,10 @@
     <mask>*Handler.java</mask>
     <mask>*ret*</mask>
     <mask>*Fi*.java</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
