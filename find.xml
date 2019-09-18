@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.cmd</mask>
     <mask>*.sql</mask>
     <mask>*log*.xml</mask>
@@ -29,9 +30,9 @@
     <mask>*ret*</mask>
     <mask>*Fi*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.prop*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
