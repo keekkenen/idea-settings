@@ -9,8 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.prop*" />
-    <mask>*.cmd</mask>
+    <option name="FILE_MASK" value="*ru.prop*" />
     <mask>*.sql</mask>
     <mask>*log*.xml</mask>
     <mask>WsRe*.java</mask>
@@ -37,8 +36,9 @@
     <mask>*Fi*.java</mask>
     <mask>*.gradle</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
+    <mask>*ru.prop*</mask>
   </component>
 </application>
