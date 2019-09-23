@@ -2,12 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.sql</mask>
     <mask>*log*.xml</mask>
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
@@ -37,5 +32,6 @@
     <mask>*.prop*</mask>
     <mask>*.java</mask>
     <mask>*ru.prop*</mask>
+    <mask>*ler.java</mask>
   </component>
 </application>
