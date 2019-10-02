@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*log*.xml</mask>
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
     <mask>*pro*.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.prop*</mask>
     <mask>*ru.prop*</mask>
+    <mask>*</mask>
   </component>
 </application>
