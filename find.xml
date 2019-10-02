@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>WsRe*.java</mask>
+    <option name="FILE_MASK" value="*est.java" />
     <mask>*field*.java</mask>
     <mask>*pro*.java</mask>
     <mask>*Service.java</mask>
@@ -34,5 +33,6 @@
     <mask>*ru.prop*</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
+    <mask>*est.java</mask>
   </component>
 </application>
