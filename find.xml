@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\src\main\java\ru\era\MainActivity.kt [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\ru\era\MainActivity.kt [app]'" />
+    <option name="customScope" value="Directory '...\sources\base\core\src\main\java\ru\era\core\model [core]'" />
+    <option name="defaultScopeName" value="Directory '...\sources\base\core\src\main\java\ru\era\core\model [core]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\ru\era\MainActivity.kt [app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\sources\base\core\src\main\java\ru\era\core\model [core]'" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
