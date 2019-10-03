@@ -16,9 +16,6 @@
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
   <option name="SOFT_MARGINS" value="120" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <DB2CodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="ALIAS_CASE" value="4" />
@@ -33,12 +30,6 @@
     <option name="FROM_EL_COMMA" value="1" />
     <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
@@ -85,7 +76,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -113,9 +104,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
@@ -138,9 +127,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
@@ -152,9 +139,6 @@
   </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
-    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
     <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
@@ -178,7 +162,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -203,8 +187,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
@@ -228,7 +211,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -253,7 +236,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -275,12 +258,6 @@
     <option name="FROM_EL_COMMA" value="1" />
     <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
@@ -337,7 +314,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="POST_OPT_WRAP_2" value="false" />
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
@@ -348,7 +325,6 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -489,8 +465,7 @@
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="TERNARY_OPERATION_WRAP" value="2" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="5" />
@@ -510,12 +485,13 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
       <tokens />
-      <groups />
       <rules>
         <section>
           <rule>

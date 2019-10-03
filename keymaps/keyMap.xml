@@ -1,16 +1,7 @@
-<keymap version="1" name="kee" parent="$default">
-  <action id="ActivateDatabaseConsoleToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
-  </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 0" />
-  </action>
+<keymap version="1" name="R-Style" parent="$default">
   <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
-  <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="shift ctrl alt delete" />
   </action>
   <action id="CollapseBlock" />
   <action id="CollapseSelection" />
@@ -21,63 +12,39 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
-  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NextPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="Diff.UpdatedFiles" />
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-  </action>
-  <action id="EditorCopy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="EditorDecreaseFontSize">
-    <mouse-shortcut keystroke="control button142" />
-  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="EditorIncreaseFontSize">
-    <mouse-shortcut keystroke="control button143" />
-  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorPasteFromX11" />
-  <action id="EditorPasteSimple" />
-  <action id="EditorResetFontSize">
-    <mouse-shortcut keystroke="control button2" />
-  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
-  <action id="EditorToggleShowLineNumbers">
-    <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
-  </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
-  </action>
+  <action id="FindInPath" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="FindPrevious" />
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="shift f3" />
-  </action>
+  <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ExpandSelection" />
@@ -96,16 +63,13 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
-  <action id="NewElementInMenuGroup">
-    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
-  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="NextOccurence" />
-  <action id="PopupHector" />
-  <action id="QuickDocCopy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
@@ -115,6 +79,7 @@
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="RemoteHostView.CopyPaths" />
@@ -122,20 +87,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
   <action id="ShowContent" />
-  <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
-  </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt t" />
-    <keyboard-shortcut first-keystroke="alt end" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -150,20 +102,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
-  </action>
-  <action id="UML.PrintGraph">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="ViewToolBar">
-    <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
-  </action>
-  <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
-  </action>
-  <action id="XDebugger.CopyValue">
-    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
 </keymap>

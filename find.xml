@@ -1,40 +1,28 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ru.prop*" />
-    <mask>*field*.java</mask>
-    <mask>*pro*.java</mask>
-    <mask>*Service.java</mask>
-    <mask>*kndaufpos*java</mask>
-    <mask>*handl*.java</mask>
-    <mask>*ru.properties</mask>
-    <mask>lth*.cs</mask>
-    <mask>*Log*java</mask>
-    <mask>*Helper.cs</mask>
-    <mask>Auf*.cs</mask>
-    <mask>Cl*.cs</mask>
-    <mask>*.cs</mask>
-    <mask>*java</mask>
-    <mask>*Test.java</mask>
-    <mask>build.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*Reply.java</mask>
-    <mask>*Strat*.java</mask>
-    <mask>*Handler.java</mask>
-    <mask>*ret*</mask>
-    <mask>*Fi*.java</mask>
+    <mask>*.css</mask>
+    <mask>*serv*.java</mask>
+    <mask>*.cmd</mask>
+    <mask>*.sql</mask>
+    <mask>*log*.xml</mask>
     <mask>*.gradle</mask>
-    <mask>pom.xml</mask>
-    <mask>*ler.java</mask>
-    <mask>*.prop*</mask>
-    <mask>*</mask>
+    <mask>build.xml</mask>
+    <mask>WsRe*.java</mask>
+    <mask>*field*.java</mask>
     <mask>*.xml</mask>
-    <mask>*est.java</mask>
     <mask>*.java</mask>
-    <mask>*ru.prop*</mask>
   </component>
 </application>

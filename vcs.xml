@@ -23,80 +23,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/if/ifd-wms-master.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/if/frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://10.200.0.58:7990/scm/wmscor/remotebase.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://vpn.ifdsls.ru:7990" />
-          <option name="userName" value="ekardashov" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://10.200.0.58:7990" />
           <option name="userName" value="agaidarji" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://172.16.1.187:7990" />
-          <option name="userName" value="aga" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://aga@172.16.1.187:7990/scm/ifd/wms.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://ekardashov@vpn.ifdsls.ru:7990/scm/ifdmvn/gitflow.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://ekardashov@vpn.ifdsls.ru:7990/scm/kmsan/kmsandroid.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/pal/wmspala.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/pal/frontendpala.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://172.16.1.187:7990/scm/ifd/wms" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/zik/frontendzik.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/zik/wmszik.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://ekardashov@vpn.ifdsls.ru:7990/scm/kmsan/migrate.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/gram/wmsgrk.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://agaidarji@10.200.0.58:7990/scm/gram/frontendgrk.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Projects\_sofia" />
+    <option name="cloneParentDir" value="C:\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -105,9 +40,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
