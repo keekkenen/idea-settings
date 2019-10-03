@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ru.prop*" />
     <mask>*field*.java</mask>
     <mask>*pro*.java</mask>
     <mask>*Service.java</mask>
@@ -28,10 +31,10 @@
     <mask>pom.xml</mask>
     <mask>*ler.java</mask>
     <mask>*.prop*</mask>
-    <mask>*ru.prop*</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*est.java</mask>
     <mask>*.java</mask>
+    <mask>*ru.prop*</mask>
   </component>
 </application>
