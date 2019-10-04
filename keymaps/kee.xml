@@ -82,6 +82,9 @@
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="IDEtalk.Rename" />
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
