@@ -82,6 +82,10 @@
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="IDEtalk.Rename" />
+  <action id="JProfiler.ShowInHotspots" />
+  <action id="JProfiler.ShowInJProfilerBacktraces" />
+  <action id="JProfiler.ShowInJProfilerOutgoing" />
+  <action id="JProfiler.ShowInJProfilerThis" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
