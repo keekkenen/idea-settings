@@ -58,6 +58,7 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
@@ -71,6 +72,12 @@
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="f3" />
@@ -82,9 +89,10 @@
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="IDEtalk.Rename" />
-  <action id="Kotlin.NewFile">
-    <keyboard-shortcut first-keystroke="ctrl alt 0" />
-  </action>
+  <action id="JProfiler.ShowInHotspots" />
+  <action id="JProfiler.ShowInJProfilerBacktraces" />
+  <action id="JProfiler.ShowInJProfilerOutgoing" />
+  <action id="JProfiler.ShowInJProfilerThis" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -128,6 +136,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
