@@ -25,6 +25,7 @@
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
+  <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NextPage" />
   <action id="CopyPaths" />
@@ -71,6 +72,9 @@
   <action id="FindPrevious" />
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_space" />
   </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
