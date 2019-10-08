@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -20,8 +21,8 @@
     <mask>*field*.java</mask>
     <mask>*.xml</mask>
     <mask>*Handler.java</mask>
-    <mask>*.cs</mask>
     <mask>*ru.txt</mask>
     <mask>*.java</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
