@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*de.txt" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -22,9 +23,10 @@
     <mask>*field*.java</mask>
     <mask>*.xml</mask>
     <mask>*Handler.java</mask>
-    <mask>*ru.txt</mask>
     <mask>*ru.properties</mask>
     <mask>*.java</mask>
     <mask>*.cs</mask>
+    <mask>*ru.txt</mask>
+    <mask>*de.txt</mask>
   </component>
 </application>
