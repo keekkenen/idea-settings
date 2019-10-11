@@ -5,9 +5,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
-      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="path" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
