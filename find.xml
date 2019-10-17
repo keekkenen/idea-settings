@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ru.properties" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -17,7 +18,6 @@
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
     <mask>*Handler.java</mask>
-    <mask>*ru.properties</mask>
     <mask>*.cs</mask>
     <mask>*ru.txt</mask>
     <mask>*de.txt</mask>
@@ -30,5 +30,6 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*ru.properties</mask>
   </component>
 </application>
