@@ -5,6 +5,10 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <mouse-shortcut keystroke="button2" />
@@ -70,6 +74,10 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="FindPrevious" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
@@ -118,7 +126,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextTab" />
   <action id="PopupHector" />
+  <action id="PreviousTab" />
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
