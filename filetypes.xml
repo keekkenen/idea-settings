@@ -13,6 +13,7 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="path" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
