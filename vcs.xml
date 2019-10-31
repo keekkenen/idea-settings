@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/piomin/sample-spring-microservices-new.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/piomin/sample-spring-microservices-kubernetes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\java\projects\kube" />
