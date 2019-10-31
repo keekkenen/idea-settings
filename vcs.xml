@@ -38,9 +38,13 @@
           <option name="url" value="http://172.16.1.187:7990" />
           <option name="userName" value="agaidarji" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud/spring-cloud-kubernetes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\java\projects" />
+    <option name="cloneParentDir" value="D:\dev\java\projects\kube" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
