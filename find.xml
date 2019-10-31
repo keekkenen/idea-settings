@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*log*.xml</mask>
     <mask>*.gradle</mask>
     <mask>build.xml</mask>
@@ -24,7 +25,6 @@
     <mask>*.properties</mask>
     <mask>Sorter*.cs</mask>
     <mask>*.cs</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>Pick*.cs</mask>
     <mask>Inventur**.cs</mask>
@@ -35,5 +35,6 @@
     <mask>Picks*.cs</mask>
     <mask>Pickq*.cs</mask>
     <mask>Sort*.cs</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
