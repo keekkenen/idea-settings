@@ -7,9 +7,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".jdk8" type="PLAIN_TEXT" />
-      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="path" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
