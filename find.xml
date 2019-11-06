@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*log*.xml</mask>
+    <option name="FILE_MASK" value="*fields.java" />
     <mask>*.gradle</mask>
     <mask>build.xml</mask>
     <mask>WsRe*.java</mask>
@@ -33,5 +33,6 @@
     <mask>Sort*.cs</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*fields.java</mask>
   </component>
 </application>
