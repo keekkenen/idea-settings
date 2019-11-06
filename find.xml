@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*fields.java" />
-    <mask>*.gradle</mask>
+    <option name="FILE_MASK" value="*Deta*.java" />
     <mask>build.xml</mask>
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
@@ -34,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*fields.java</mask>
+    <mask>*Deta*.java</mask>
   </component>
 </application>
