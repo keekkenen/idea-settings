@@ -3,22 +3,36 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.html</mask>
-    <mask>*.properties</mask>
-    <mask>*.css</mask>
-    <mask>*serv*.java</mask>
-    <mask>*.cmd</mask>
-    <mask>*.sql</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*log*.xml</mask>
     <mask>*.gradle</mask>
     <mask>build.xml</mask>
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
-    <mask>*.xml</mask>
+    <mask>*Handler.java</mask>
+    <mask>*ru.txt</mask>
+    <mask>*de.txt</mask>
+    <mask>*.c*</mask>
+    <mask>*error*.log</mask>
+    <mask>*.Cfg</mask>
+    <mask>*model*.*</mask>
+    <mask>*s.java</mask>
+    <mask>*.sql</mask>
+    <mask>*ru.properties</mask>
+    <mask>v*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>Sorter*.cs</mask>
+    <mask>*.cs</mask>
     <mask>*.java</mask>
+    <mask>Pick*.cs</mask>
+    <mask>Inventur**.cs</mask>
+    <mask>inven*.cs</mask>
+    <mask>lo*.cs</mask>
+    <mask>Ltu*.cs</mask>
+    <mask>Pickl*.cs</mask>
+    <mask>Picks*.cs</mask>
+    <mask>Pickq*.cs</mask>
+    <mask>Sort*.cs</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
