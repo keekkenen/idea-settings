@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>WsRe*.java</mask>
     <mask>*field*.java</mask>
     <mask>*Handler.java</mask>
@@ -31,8 +30,8 @@
     <mask>*Deta*.java</mask>
     <mask>*.properties</mask>
     <mask>*.y*</mask>
-    <mask>*fields.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*fields.java</mask>
   </component>
 </application>
