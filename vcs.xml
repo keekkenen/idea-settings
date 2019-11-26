@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/kubernetes/community.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://vpn.ifdsls.ru:7990" />
+          <option name="userName" value="ekardashov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\java\projects\kube" />
