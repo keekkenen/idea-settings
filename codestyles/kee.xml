@@ -216,7 +216,7 @@
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_EL_LINE" value="101" />
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_EL_COMMA" value="1" />
     <option name="WHERE_EL_WRAP" value="3" />
@@ -291,6 +291,7 @@
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_EL_LINE" value="1" />
     <option name="SELECT_EL_WRAP" value="3" />
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_EL_COMMA" value="1" />
