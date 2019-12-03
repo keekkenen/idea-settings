@@ -12,7 +12,6 @@
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
     <mask>*model*.*</mask>
-    <mask>*s.java</mask>
     <mask>*.sql</mask>
     <mask>*ru.properties</mask>
     <mask>v*.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*fields.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*s.java</mask>
   </component>
 </application>
