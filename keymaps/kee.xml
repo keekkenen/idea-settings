@@ -6,7 +6,6 @@
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="CloseContent">
@@ -75,7 +74,6 @@
   </action>
   <action id="FindPrevious" />
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GenerateJavadoc">
