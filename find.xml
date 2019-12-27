@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'Hibernate 'Hibernate''" />
-    <option name="defaultScopeName" value="File 'Hibernate 'Hibernate''" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'Hibernate 'Hibernate''" />
-    <mask>*field*.java</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*Handler.java</mask>
     <mask>*ru.txt</mask>
     <mask>*de.txt</mask>
@@ -31,9 +29,10 @@
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
     <mask>*s.java</mask>
-    <mask>*.cs</mask>
     <mask>*.xml</mask>
     <mask>Disp*.java</mask>
     <mask>*.java</mask>
+    <mask>*er*.cs</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
