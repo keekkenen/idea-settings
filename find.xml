@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*Handler.java</mask>
     <mask>*ru.txt</mask>
     <mask>*de.txt</mask>
@@ -34,7 +31,7 @@
     <mask>Disp*.java</mask>
     <mask>*er*.cs</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
