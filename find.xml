@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>WsRe*.java</mask>
-    <mask>*field*.java</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Handler.java</mask>
     <mask>*ru.txt</mask>
     <mask>*de.txt</mask>
@@ -12,11 +13,9 @@
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
     <mask>*model*.*</mask>
-    <mask>*.sql</mask>
     <mask>*ru.properties</mask>
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
-    <mask>*.cs</mask>
     <mask>Pick*.cs</mask>
     <mask>Inventur**.cs</mask>
     <mask>inven*.cs</mask>
@@ -31,7 +30,11 @@
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
     <mask>*s.java</mask>
-    <mask>*.java</mask>
+    <mask>Disp*.java</mask>
+    <mask>*er*.cs</mask>
+    <mask>*.cs</mask>
+    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
