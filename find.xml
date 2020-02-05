@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="HostReceiveSupplyWorker.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*de.txt</mask>
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
@@ -36,7 +36,7 @@
     <mask>*t.cs</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>HostReceiveSupplyWorker.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
