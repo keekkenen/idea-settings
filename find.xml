@@ -1,9 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
@@ -32,7 +37,7 @@
     <mask>*.cfg</mask>
     <mask>*.sql</mask>
     <mask>*ru.properties</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
