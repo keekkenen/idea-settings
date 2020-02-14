@@ -488,7 +488,7 @@
     <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
-    <option name="FOR_STATEMENT_WRAP" value="5" />
+    <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="ASSERT_STATEMENT_WRAP" value="5" />
@@ -502,12 +502,8 @@
     <option name="SPACE_BEFORE_ANOTATION_PARAMETER_LIST" value="true" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="true" />
-      <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
       <tokens />
