@@ -27,11 +27,11 @@
     <mask>*t.cs</mask>
     <mask>*.cs</mask>
     <mask>HostReceiveSupplyWorker.java</mask>
-    <mask>*.java</mask>
     <mask>*.cfg</mask>
     <mask>*.sql</mask>
-    <mask>*ru.properties</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*ru.properties</mask>
   </component>
 </application>
