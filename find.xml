@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\server\src\main\resources\hibernate.wcs.cfg.xml'" />
-    <option name="defaultScopeName" value="File '...\server\src\main\resources\hibernate.wcs.cfg.xml'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\server\src\main\resources\hibernate.wcs.cfg.xml'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
