@@ -45,7 +45,7 @@
       <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle">
+    <driver id="oracle" driver-class="oracle.jdbc.driver.OracleDriver">
       <artifact name="Oracle" version="12.1.0.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
