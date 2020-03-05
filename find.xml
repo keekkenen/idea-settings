@@ -2,15 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*de.txt</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
     <mask>*model*.*</mask>
-    <mask>*ru.properties</mask>
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
@@ -23,7 +22,6 @@
     <mask>Pickq*.cs</mask>
     <mask>Sort*.cs</mask>
     <mask>*Deta*.java</mask>
-    <mask>*.properties</mask>
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
     <mask>*s.java</mask>
@@ -32,8 +30,11 @@
     <mask>*t.cs</mask>
     <mask>*.cs</mask>
     <mask>HostReceiveSupplyWorker.java</mask>
-    <mask>*.sql</mask>
+    <mask>*.cfg</mask>
+    <mask>*.properties</mask>
+    <mask>*ru.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
