@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
@@ -27,7 +28,6 @@
     <mask>Disp*.java</mask>
     <mask>*er*.cs</mask>
     <mask>*t.cs</mask>
-    <mask>*.cs</mask>
     <mask>HostReceiveSupplyWorker.java</mask>
     <mask>*.cfg</mask>
     <mask>*.properties</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
