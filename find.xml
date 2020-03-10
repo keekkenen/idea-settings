@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ru.properties" />
     <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
@@ -28,10 +29,10 @@
     <mask>HostReceiveSupplyWorker.java</mask>
     <mask>*.cfg</mask>
     <mask>*.properties</mask>
-    <mask>*ru.properties</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.cs</mask>
+    <mask>*ru.properties</mask>
   </component>
 </application>
