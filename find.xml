@@ -7,8 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cs" />
-    <mask>*.c*</mask>
     <mask>*error*.log</mask>
     <mask>*.Cfg</mask>
     <mask>*model*.*</mask>
@@ -36,7 +34,8 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*ru.properties</mask>
-    <mask>*.java</mask>
     <mask>*.cs</mask>
+    <mask>*r.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
