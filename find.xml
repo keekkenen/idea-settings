@@ -3,11 +3,13 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.cfg" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.Cfg</mask>
     <mask>*model*.*</mask>
     <mask>v*.xml</mask>
@@ -36,7 +38,7 @@
     <mask>*.xml</mask>
     <mask>*Handler.java</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>*.cfg</mask>
+    <mask>*.java</mask>
   </component>
 </application>
