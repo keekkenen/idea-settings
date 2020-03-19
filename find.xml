@@ -7,6 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*model*.*</mask>
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
@@ -31,11 +32,11 @@
     <mask>*.sql</mask>
     <mask>*ru.properties</mask>
     <mask>*r.java</mask>
-    <mask>*.xml</mask>
     <mask>*Handler.java</mask>
     <mask>*.cs</mask>
     <mask>*.cfg</mask>
     <mask>*.java</mask>
     <mask>*Detail.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
