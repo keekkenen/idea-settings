@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ru.properties" />
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
@@ -29,10 +28,10 @@
     <mask>*Handler.java</mask>
     <mask>*.cs</mask>
     <mask>*.cfg</mask>
-    <mask>*.java</mask>
     <mask>*Detail.java</mask>
     <mask>*.xml</mask>
     <mask>*.fxml</mask>
     <mask>*ru.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
