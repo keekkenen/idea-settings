@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ru.properties" />
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
@@ -24,7 +25,6 @@
     <mask>HostReceiveSupplyWorker.java</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
-    <mask>*ru.properties</mask>
     <mask>*r.java</mask>
     <mask>*Handler.java</mask>
     <mask>*.cs</mask>
@@ -33,5 +33,6 @@
     <mask>*Detail.java</mask>
     <mask>*.xml</mask>
     <mask>*.fxml</mask>
+    <mask>*ru.properties</mask>
   </component>
 </application>
