@@ -3,11 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.c*</mask>
-    <mask>*error*.log</mask>
-    <mask>*.Cfg</mask>
-    <mask>*model*.*</mask>
     <mask>v*.xml</mask>
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
@@ -26,13 +21,17 @@
     <mask>Disp*.java</mask>
     <mask>*er*.cs</mask>
     <mask>*t.cs</mask>
-    <mask>*.cs</mask>
     <mask>HostReceiveSupplyWorker.java</mask>
-    <mask>*.cfg</mask>
     <mask>*.properties</mask>
-    <mask>*ru.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*r.java</mask>
+    <mask>*Handler.java</mask>
+    <mask>*.cs</mask>
+    <mask>*.cfg</mask>
+    <mask>*Detail.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.fxml</mask>
+    <mask>*ru.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
