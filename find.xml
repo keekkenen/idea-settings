@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>v*.xml</mask>
+    <option name="FILE_MASK" value="2020*.xml" />
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
     <mask>Inventur**.cs</mask>
@@ -37,5 +37,6 @@
     <mask>*.fxml</mask>
     <mask>*ru.properties</mask>
     <mask>*.java</mask>
+    <mask>2020*.xml</mask>
   </component>
 </application>
