@@ -4,10 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
     <mask>Inventur**.cs</mask>
@@ -35,8 +37,8 @@
     <mask>*Detail.java</mask>
     <mask>*.fxml</mask>
     <mask>*ru.properties</mask>
-    <mask>*.java</mask>
     <mask>2020*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
