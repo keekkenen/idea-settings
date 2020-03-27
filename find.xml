@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>Sorter*.cs</mask>
     <mask>Pick*.cs</mask>
     <mask>Inventur**.cs</mask>
