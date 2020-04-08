@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>Inventur**.cs</mask>
     <mask>inven*.cs</mask>
     <mask>lo*.cs</mask>
@@ -30,9 +30,9 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>2018*.xml</mask>
     <mask>20*.xml</mask>
     <mask>*.cs</mask>
+    <mask>*.java</mask>
   </component>
 </application>
