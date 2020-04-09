@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>inven*.cs</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>lo*.cs</mask>
     <mask>Ltu*.cs</mask>
     <mask>Pickl*.cs</mask>
@@ -30,8 +30,9 @@
     <mask>*.sql</mask>
     <mask>2018*.xml</mask>
     <mask>20*.xml</mask>
-    <mask>*.java</mask>
     <mask>*Designer.cs</mask>
     <mask>*.cs</mask>
+    <mask>*Request.cs</mask>
+    <mask>*.java</mask>
   </component>
 </application>
