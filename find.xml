@@ -28,10 +28,10 @@
     <mask>2018*.xml</mask>
     <mask>20*.xml</mask>
     <mask>*Designer.cs</mask>
-    <mask>*.cs</mask>
     <mask>*.java</mask>
     <mask>ё</mask>
     <mask>*Request.cs</mask>
     <mask>*.xml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
