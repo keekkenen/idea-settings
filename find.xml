@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>Ltu*.cs</mask>
+    <option name="FILE_MASK" value="*.txt" />
     <mask>Pickl*.cs</mask>
     <mask>Picks*.cs</mask>
     <mask>Pickq*.cs</mask>
@@ -34,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.cs</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
