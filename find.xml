@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>Pickl*.cs</mask>
     <mask>Picks*.cs</mask>
     <mask>Pickq*.cs</mask>
@@ -32,8 +33,8 @@
     <mask>ё</mask>
     <mask>*Request.cs</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*.java</mask>
     <mask>*.txt</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
