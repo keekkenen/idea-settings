@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>Pickl*.cs</mask>
     <mask>Picks*.cs</mask>
     <mask>Pickq*.cs</mask>
@@ -34,8 +35,8 @@
     <mask>*.xml</mask>
     <mask>*.txt</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>2020*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
