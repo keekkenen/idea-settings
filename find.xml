@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'komusDMD.1'" />
+    <option name="defaultScopeName" value="Project 'komusDMD.1'" />
+    <option name="SEARCH_SCOPE" value="Project 'komusDMD.1'" />
     <mask>Sort*.cs</mask>
     <mask>*Deta*.java</mask>
     <mask>*.y*</mask>
