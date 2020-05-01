@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>Sort*.cs</mask>
     <mask>*Deta*.java</mask>
     <mask>*.y*</mask>
@@ -31,7 +32,7 @@
     <mask>*wcs*.xml</mask>
     <mask>*.fxml</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>2019*.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
