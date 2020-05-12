@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Deta*.java</mask>
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
@@ -31,8 +31,8 @@
     <mask>*.fxml</mask>
     <mask>2019*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.xml</mask>
-    <mask>*.prop*</mask>
     <mask>*.java</mask>
+    <mask>*.prop*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
