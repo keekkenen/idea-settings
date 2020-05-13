@@ -31,8 +31,8 @@
     <mask>*.fxml</mask>
     <mask>2019*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
