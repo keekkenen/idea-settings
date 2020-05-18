@@ -49,7 +49,7 @@
       <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle">
+    <driver id="oracle" driver-class="oracle.jdbc.driver.OracleDriver">
       <artifact name="Oracle" rolling="false" version="11.2.0.4" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
