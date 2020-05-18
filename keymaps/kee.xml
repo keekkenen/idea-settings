@@ -6,7 +6,6 @@
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="CloseContent">
@@ -75,11 +74,14 @@
   </action>
   <action id="FindPrevious" />
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl #1000451" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl alt back_space" />
@@ -134,6 +136,7 @@
   </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -147,6 +150,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReplaceInPath" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -183,6 +187,7 @@
   <action id="UML.PrintGraph">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="ViewToolBar">
     <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
   </action>
@@ -191,5 +196,11 @@
   </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>

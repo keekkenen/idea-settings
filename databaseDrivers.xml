@@ -50,13 +50,16 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" rolling="false" use="true" version="11.2.0.4" />
+      <artifact name="Oracle" rolling="false" version="11.2.0.4" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
       <option name="send-app-info" value="true" />
       <option name="format-sources-on-sync" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/oracle/ojdbc/7/ojdbc-7.jar</url>
+      </library>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />

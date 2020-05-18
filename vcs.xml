@@ -62,9 +62,13 @@
           <option name="url" value="http://vpn.ifdsls.ru:7990" />
           <option name="userName" value="ekardashov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/badoo/MVICore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\java\projects\kube" />
+    <option name="cloneParentDir" value="D:\dev\java\projects\android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
@@ -77,8 +81,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

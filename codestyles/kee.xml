@@ -149,6 +149,7 @@
   </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5000" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3000" />
     <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
@@ -216,7 +217,7 @@
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_EL_LINE" value="101" />
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_EL_COMMA" value="1" />
     <option name="WHERE_EL_WRAP" value="3" />
@@ -291,6 +292,7 @@
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_EL_LINE" value="1" />
     <option name="SELECT_EL_WRAP" value="3" />
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_EL_COMMA" value="1" />
@@ -484,10 +486,10 @@
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="TERNARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_WRAP" value="2" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
-    <option name="FOR_STATEMENT_WRAP" value="5" />
+    <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="ASSERT_STATEMENT_WRAP" value="5" />
@@ -501,12 +503,8 @@
     <option name="SPACE_BEFORE_ANOTATION_PARAMETER_LIST" value="true" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="true" />
-      <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
       <tokens />
@@ -818,6 +816,28 @@
           <rule>
             <match>
               <AND>
+                <METHOD>true</METHOD>
+                <OVERRIDDEN />
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <OVERRIDDEN />
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
                 <ABSTRACT>true</ABSTRACT>
                 <METHOD>true</METHOD>
                 <PUBLIC>true</PUBLIC>
@@ -843,28 +863,6 @@
                 <ABSTRACT>true</ABSTRACT>
                 <METHOD>true</METHOD>
                 <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <OVERRIDDEN />
-                <PUBLIC>true</PUBLIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <OVERRIDDEN />
-                <PROTECTED>true</PROTECTED>
               </AND>
             </match>
           </rule>
@@ -1120,8 +1118,6 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">

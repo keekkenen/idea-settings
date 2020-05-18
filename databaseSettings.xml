@@ -1,9 +1,8 @@
 <application>
-  <component name="DatabaseSettings" version="3">
-    <option name="reuse-result-tab" value="false" />
+  <component name="DatabaseSettings" version="4">
     <option name="execute-inside-option" value="2" />
     <exec-options>
-      <exec-option new-tab="true" exec-inside="2" />
+      <exec-option exec-inside="2" />
       <exec-option />
       <exec-option />
     </exec-options>
@@ -13,7 +12,7 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-scripts="true" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
       </parameter-patterns>
@@ -21,7 +20,7 @@
     <csv-formats>
       <csv-format name="Tab-separated (TSV)" id="Tab-separated (TSV)_id">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="~d~" recordSeparator="~e~">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
@@ -31,7 +30,7 @@
       </csv-format>
       <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="~d~" recordSeparator="~e~">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
