@@ -1,17 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
-    <mask>Pickl*.cs</mask>
-    <mask>Picks*.cs</mask>
-    <mask>Pickq*.cs</mask>
-    <mask>Sort*.cs</mask>
     <mask>*Deta*.java</mask>
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
@@ -24,7 +18,6 @@
     <mask>*Handler.java</mask>
     <mask>*.cfg</mask>
     <mask>*Detail.java</mask>
-    <mask>*.fxml</mask>
     <mask>*ru.properties</mask>
     <mask>*.sql</mask>
     <mask>2018*.xml</mask>
@@ -32,11 +25,16 @@
     <mask>*Designer.cs</mask>
     <mask>ё</mask>
     <mask>*Request.cs</mask>
-    <mask>*.xml</mask>
     <mask>*.txt</mask>
-    <mask>*.cs</mask>
     <mask>2020*.xml</mask>
     <mask>*.properties</mask>
+    <mask>ser*.xml</mask>
+    <mask>*wcs*.xml</mask>
+    <mask>*.fxml</mask>
+    <mask>2019*.xml</mask>
+    <mask>*.prop*</mask>
+    <mask>*.cs</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
