@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.prop*" />
-    <mask>*Deta*.java</mask>
+    <option name="FILE_MASK" value="e*.log" />
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
     <mask>*s.java</mask>
@@ -36,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*.cs</mask>
     <mask>*.prop*</mask>
+    <mask>e*.log</mask>
   </component>
 </application>
