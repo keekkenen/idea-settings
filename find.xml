@@ -3,35 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Deta*.java</mask>
-    <mask>*.y*</mask>
-    <mask>*fields.java</mask>
-    <mask>*s.java</mask>
-    <mask>Disp*.java</mask>
-    <mask>*er*.cs</mask>
-    <mask>*t.cs</mask>
-    <mask>HostReceiveSupplyWorker.java</mask>
-    <mask>*r.java</mask>
-    <mask>*Handler.java</mask>
-    <mask>*.cfg</mask>
-    <mask>*Detail.java</mask>
-    <mask>*ru.properties</mask>
-    <mask>*.sql</mask>
-    <mask>2018*.xml</mask>
-    <mask>20*.xml</mask>
-    <mask>*Designer.cs</mask>
-    <mask>ё</mask>
-    <mask>*Request.cs</mask>
-    <mask>*.txt</mask>
-    <mask>2020*.xml</mask>
+    <option name="FILE_MASK" value="*.cfg" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>ser*.xml</mask>
-    <mask>*wcs*.xml</mask>
-    <mask>*.fxml</mask>
-    <mask>2019*.xml</mask>
-    <mask>*.prop*</mask>
-    <mask>*.cs</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.cfg</mask>
   </component>
 </application>
