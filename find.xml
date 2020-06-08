@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.y*</mask>
     <mask>*fields.java</mask>
     <mask>*s.java</mask>
@@ -28,10 +29,10 @@
     <mask>*wcs*.xml</mask>
     <mask>*.fxml</mask>
     <mask>2019*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.cs</mask>
     <mask>*.prop*</mask>
     <mask>e*.log</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
