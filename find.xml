@@ -2,39 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cs" />
-    <mask>*.y*</mask>
-    <mask>*fields.java</mask>
-    <mask>*s.java</mask>
-    <mask>Disp*.java</mask>
-    <mask>*er*.cs</mask>
-    <mask>*t.cs</mask>
-    <mask>HostReceiveSupplyWorker.java</mask>
-    <mask>*r.java</mask>
-    <mask>*Handler.java</mask>
-    <mask>*.cfg</mask>
-    <mask>*Detail.java</mask>
-    <mask>*ru.properties</mask>
-    <mask>*.sql</mask>
-    <mask>2018*.xml</mask>
-    <mask>20*.xml</mask>
-    <mask>*Designer.cs</mask>
-    <mask>ё</mask>
-    <mask>*Request.cs</mask>
-    <mask>*.txt</mask>
-    <mask>2020*.xml</mask>
-    <mask>*.properties</mask>
-    <mask>ser*.xml</mask>
-    <mask>*wcs*.xml</mask>
-    <mask>*.fxml</mask>
-    <mask>2019*.xml</mask>
-    <mask>*.prop*</mask>
-    <mask>e*.log</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.cs</mask>
   </component>
 </application>
