@@ -503,8 +503,7 @@
     <option name="SPACE_BEFORE_ANOTATION_PARAMETER_LIST" value="true" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
     <arrangement>
       <tokens />
