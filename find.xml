@@ -11,6 +11,7 @@
     <mask>**Handler.java</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>build.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
