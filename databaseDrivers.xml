@@ -77,8 +77,16 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle.19">
+      <artifact use="false" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://D:/dev/Projects/_komus/komusDMD.1/server/lib/ojdbc6-11.2.0.4.jar</url>
+      </library>
     </driver>
     <driver id="oracle" driver-class="oracle.jdbc.driver.OracleDriver">
       <artifact use="false" />
