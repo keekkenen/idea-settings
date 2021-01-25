@@ -1,19 +1,19 @@
 <keymap version="1" name="kee" parent="$default">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt 9" />
-  </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
-    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt delete" />
@@ -31,10 +31,12 @@
   </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
-  <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NextPage" />
   <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="Diff.UpdatedFiles" />
   <action id="Editor Copy">
@@ -42,6 +44,9 @@
   </action>
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
@@ -69,6 +74,9 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
@@ -77,7 +85,7 @@
   </action>
   <action id="FindPrevious" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
@@ -85,9 +93,6 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="shift ctrl #1000451" />
-  </action>
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="shift ctrl alt back_space" />
   </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -131,14 +136,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="NextOccurence" />
-  <action id="NextTab" />
   <action id="PopupHector" />
-  <action id="PreviousTab" />
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="RearrangeCode">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
@@ -148,12 +150,14 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
   <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="ReplaceInPath" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -190,7 +194,9 @@
   <action id="UML.PrintGraph">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="UpdateRunningApplication" />
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
   <action id="ViewToolBar">
     <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
   </action>
@@ -199,11 +205,5 @@
   </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
