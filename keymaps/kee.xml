@@ -126,6 +126,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
