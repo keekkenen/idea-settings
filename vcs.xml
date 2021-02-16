@@ -90,5 +90,10 @@
         <option value="Default.Hash" />
       </list>
     </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+      </map>
+    </option>
   </component>
 </application>
