@@ -7,10 +7,10 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.cs</mask>
     <mask>**Handler.java</mask>
     <mask>build.xml</mask>
     <mask>*.fxml</mask>
@@ -19,5 +19,6 @@
     <mask>*Test.java</mask>
     <mask>*RU.properties</mask>
     <mask>*.java</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
