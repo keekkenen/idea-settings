@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="service*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +17,6 @@
     <mask>*.cs</mask>
     <mask>*end.cs</mask>
     <mask>*.java</mask>
+    <mask>service*.xml</mask>
   </component>
 </application>
