@@ -12,11 +12,11 @@
     <mask>*Test.java</mask>
     <mask>*RU.properties</mask>
     <mask>*end.cs</mask>
-    <mask>*.java</mask>
     <mask>service*.xml</mask>
     <mask>*.properties</mask>
     <mask>build.gradle</mask>
     <mask>*.cs</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
