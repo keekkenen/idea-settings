@@ -17,7 +17,7 @@
     <mask>*.cs</mask>
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
