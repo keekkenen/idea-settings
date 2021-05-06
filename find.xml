@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*ger.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,5 +22,6 @@
     <mask>*Config.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*ger.java</mask>
   </component>
 </application>
