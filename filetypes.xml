@@ -19,6 +19,7 @@
       <mapping ext="path" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping pattern="_Supply" type="XML" />
       <removed_mapping ext="yml" type="YAML" />
