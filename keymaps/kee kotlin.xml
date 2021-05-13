@@ -116,9 +116,6 @@
   <action id="JProfiler.ShowInJProfilerBacktraces" />
   <action id="JProfiler.ShowInJProfilerOutgoing" />
   <action id="JProfiler.ShowInJProfilerThis" />
-  <action id="Kotlin.NewFile">
-    <keyboard-shortcut first-keystroke="ctrl alt 0" />
-  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -126,6 +123,9 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
