@@ -1,9 +1,7 @@
 <scheme name="kee" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -148,7 +146,6 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
