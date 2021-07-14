@@ -13,8 +13,9 @@
     </driver>
     <driver id="oracle" driver-class="oracle.jdbc.driver.OracleDriver">
       <artifact />
+      <option name="auto-commit" value="true" />
       <library>
-        <url>file://D:/dev/Projects/_komus/komusDMD.1/server/lib/ojdbc6-11.2.0.4.jar</url>
+        <url>file://D:/dev/Projects/_komus/komusDMD/server/lib/ojdbc6-11.2.0.4.jar</url>
       </library>
     </driver>
   </component>
