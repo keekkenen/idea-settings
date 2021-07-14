@@ -21,7 +21,7 @@
     <mask>*.wsdl</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.cs</mask>
+    <mask>*.java</mask>
   </component>
 </application>
